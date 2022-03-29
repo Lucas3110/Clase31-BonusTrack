@@ -1,3 +1,3 @@
 # Clase31-Bonustrack
 
-Ejercitación BonusTrack Finalizada sin problemas
+Ejercitación BonusTrack finalizada sin problemas
