@@ -6,11 +6,19 @@ const actorsController = {
             .then(actors => {
                 res.render("actorsList", {actors: actors})
             })
-    }
+    },
 
-    /* me falta el detail */
-    
+    detail: function (req, res) {
+        
+       
+        db.Actor.findByPk(req.params.id)
+        .then(actor => {
+            res.render('actorsDetail', {actor});
+        });
+    }
 }
+
+    
 
 
 
