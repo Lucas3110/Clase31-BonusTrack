@@ -8,7 +8,7 @@ const actorsController = {
             })
     }
 
-    /* me falta el list */
+    /* me falta el detail */
     
 }
 
