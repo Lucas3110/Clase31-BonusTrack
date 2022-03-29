@@ -1,3 +1,3 @@
 # Clase31-Bonustrack
 
-Ejercitación Bonustrack finalizada sin problemas
+Se ejecuta desde el scr con "node app.js"
